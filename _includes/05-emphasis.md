@@ -1,7 +1,7 @@
-___# My favorite Books___
-__1. Percy Jackson Series 🔱__
-  _* Titan's Curse 🦁_
-  _* Battle of the Labyrinth 🌋_
-__2. Harry Potter Series 👓__
-  _* Prisoner of Askaban 🐺_
-  _* Deathly Hallows 🏰_
+# ___My favorite Books___
+1. __Percy Jackson Series 🔱__
+  * _Titan's Curse 🦁_
+  * _Battle of the Labyrinth 🌋_
+2. __Harry Potter Series 👓__
+  * _Prisoner of Askaban 🐺_
+  * _Deathly Hallows 🏰_
